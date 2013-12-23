@@ -15,8 +15,11 @@ In a low tax, very comfortable first world city with warm weather, loads of tree
 
 The work stream will be up to you as a team. The current codebase is a single spaghetti-like 200k-line PHP repo, inherited from outside the company and a perpetual source of mystery even to those who worked on it here. The new infrastructure will be modular and as close to purely functional as possible (think service-oriented architecture). 
 We think the following will happen:
+
 1. rewrite of shop core, front end, and everything currently in PHP;
+
 2. rewrite of every external solution: activity tracking, inventory management, buying planning, financial reporting...;
+
 3. build and improve the above, for example by making the shop adapt to the customer with every action they take.
 
 We all contribute to the open source community, as such you will be encouraged to open source a lot of your code and blog about your work. 
