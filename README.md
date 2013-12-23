@@ -22,8 +22,11 @@ We think the following will happen:
 We all contribute to the open source community, as such you will be encouraged to open source a lot of your code and blog about your work. 
 
 We do not care about your CV, educational institution, cover letter or hobbies. We estimate ability, and will measure your future performance, based on your code and experience. As such, you have three options:
+
 1. solve the below and email your code and results; 
+
 2. link us to your existing, substantial open source contributions in Haskell;
+
 3. best of 7 StarCraft II HoS matches with one of the Haskellers here (not recommended if your APM < 200).
 
 Send your choice to projectdeltasea@gmail.com. We will respond quickly and HR is not involved except post-offer to get your visa.
