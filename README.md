@@ -28,7 +28,7 @@ We do not care about your CV, educational institution, cover letter or hobbies. 
 
 - solve the below and email your code and results OR
 - link us to your existing, substantial open source contributions in Haskell OR
-- best of 7 StarCraft II HoS matches with one of the Haskellers here (not recommended if your APM < 200).
+- best of 7 StarCraft II HoS matches with one of the Haskellers here (not recommended if your APM < 200). Edit since posted in /r/starcraft: in order to be eligible for the match, write a function that takes an array of functions and an array of integers and returns an array of the average between the integer and the function applied to the integer. There will be a secret follow up question.
 
 Send your choice to projectdeltasea@gmail.com. We will respond quickly and HR is not involved except post-offer to get your visa.
 
