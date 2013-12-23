@@ -5,7 +5,7 @@ TL;DR: rewrite an entire PHP shop into Haskell. We're hiring 6 Haskellers. Conta
 
 ##Summary
 
-We are an online retail shop with millions of customers, and 9 digit USD funding. The PHP core is failing. We have budget and backing to rebuild everything, starting with the core and moving to the external service providers, in Haskell, taking the time to do it properly. A Haskell skeleton team is already in place and built a few things very well and very fast which is why this is happening. There's even a new CTO as the old one was a bit too vocal with his view that "Haskell is an impractical, niche academic language that will disappear in a couple of years". Now we are hiring half a dozen robust, experienced Haskellers to execute the project.
+We are an online retail shop with millions of customers, and 9 digit USD funding. The PHP core is failing. We have budget and backing to rebuild everything, starting with the core and moving to the external service providers, in Haskell, taking the time to do it properly. A Haskell skeleton team is already in place and built a few things very well and very fast which is why this is happening. Now we are hiring half a dozen robust, experienced Haskellers to execute the project.
 
 Build the largest customer facing Haskell company yet, and prove that Haskell truly is a general purpose programming language. We mean it. EVERYTHING gets rebuilt. Aside from showing the world that Haskell is practical and a great choice in such a setting, you're also showing that it's possible to do it as a rewrite, and developing and open sourcing libraries to help other companies transition quickly and robustly.
 
