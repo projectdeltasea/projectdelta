@@ -1,17 +1,19 @@
 Rebuild a million customer company in Haskell
 ============
 
-TL;DR: rewrite an entire PHP shop into Haskell. We're hiring 6 Haskellers. Contact us on projectdeltasea@gmail.com.
+Rewrite an entire PHP shop in Haskell. We're hiring 6 Haskellers. Contact us on projectdeltasea@gmail.com.
 
 ##Summary
 
-We are an online retail shop with millions of customers, and 9 digit USD funding. The PHP core is failing. We have budget and backing to rebuild everything, starting with the core and moving to the external service providers, in Haskell, taking the time to do it properly. A Haskell skeleton team is already in place and built a few things very well and very fast which is why this is happening. There's even a new CTO as the old one was a bit too vocal with his view that "Haskell is an impractical, niche academic language that will disappear in a couple of years". Now we are hiring half a dozen robust, experienced Haskellers to execute the project.
+We are an online retail shop with millions of customers, and 9 digit USD funding. The PHP core is failing. A Haskell skeleton team is already in place and built a few things very well and very fast which is why this is happening:
+
+We have budget, and backing to rebuild everything in Haskell, starting with the core and moving to the external service providers, taking the time to do it properly.  Now we are hiring half a dozen robust, experienced Haskellers to execute the project.
 
 Build the largest customer facing Haskell company yet, and prove that Haskell truly is a general purpose programming language. We mean it. EVERYTHING gets rebuilt. Aside from showing the world that Haskell is practical and a great choice in such a setting, you're also showing that it's possible to do it as a rewrite, and developing and open sourcing libraries to help other companies transition quickly and robustly.
 
 ##Details
 
-In a low tax, very comfortable first world city with warm weather, loads of trees and clean air. No project management structure - work directly with the users. No corporate bureaucracy - wear shorts to work and turn up at lunchtime if you want. Remote work will be considered - the technical lead has experience managing a remote team. 
+In a low tax, very comfortable first world city with warm weather, loads of trees, clean air and exceptionally good food. No project management structure - work directly with the users. No corporate bureaucracy - wear shorts to work and turn up at lunchtime if you want. Remote work will be considered - the technical lead has experience managing a remote team. 
 
 The work stream will be up to you as a team. The current codebase is a single spaghetti-like 200k-line PHP repo, inherited from outside the company and a perpetual source of mystery even to those who worked on it here. The new infrastructure will be modular and as close to purely functional as possible (think service-oriented architecture). 
 We think the following will happen:
